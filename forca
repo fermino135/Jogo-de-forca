@@ -1,0 +1,12 @@
+def jogo():
+ Palavra_escolhida = ("Carro")
+    letra_corretas = ""
+    tentativas = "6"
+     
+     print("Bem vindo ao jogo")
+     mostrar_palavra = (letra_corretas, tentativas) 
+     
+     def mostrar_palavra = (letra_corretas, tentativas):
+         for letra in Palavra_escolhida:
+               for letra in letra_corretas:
+     
